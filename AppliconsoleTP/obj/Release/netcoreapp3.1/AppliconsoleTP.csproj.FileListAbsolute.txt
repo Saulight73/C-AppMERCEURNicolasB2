@@ -1,0 +1,4 @@
+I:\EPSI\C#\GitTPMERCEURNicolas\AppliconsoleTP\obj\Release\netcoreapp3.1\AppliconsoleTP.GeneratedMSBuildEditorConfig.editorconfig
+I:\EPSI\C#\GitTPMERCEURNicolas\AppliconsoleTP\obj\Release\netcoreapp3.1\AppliconsoleTP.AssemblyInfoInputs.cache
+I:\EPSI\C#\GitTPMERCEURNicolas\AppliconsoleTP\obj\Release\netcoreapp3.1\AppliconsoleTP.AssemblyInfo.cs
+I:\EPSI\C#\GitTPMERCEURNicolas\AppliconsoleTP\obj\Release\netcoreapp3.1\AppliconsoleTP.csproj.CoreCompileInputs.cache

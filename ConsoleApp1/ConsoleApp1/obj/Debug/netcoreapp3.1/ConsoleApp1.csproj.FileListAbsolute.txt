@@ -1,0 +1,13 @@
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
