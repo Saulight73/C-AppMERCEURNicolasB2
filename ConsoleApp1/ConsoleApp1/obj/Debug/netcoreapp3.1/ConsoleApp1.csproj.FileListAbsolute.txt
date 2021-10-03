@@ -11,3 +11,4 @@ I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\C
 I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+I:\EPSI\C#\GitTPMERCEURNicolas\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
